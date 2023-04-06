@@ -50,7 +50,7 @@ Nenhuma das anteriores? Òtimo */
 let desempenho; //começa indefinida
 if (media < 3) {
     desempenho = "PÉSSIMO";
-} else if (media < 5 ){
+} else if (media < 5) {
     desempenho = "RUIM";
 } else if (media < 7) {
     desempenho = "REGULAR";
@@ -62,9 +62,22 @@ if (media < 3) {
 
 console.log(desempenho);
 
+console.log("---------");
+
+/* if/else de uma linha (shorthand if/else) */
+let idade = 20;
+// //Versão Normal
+// // let resultado;
+// // if (idade >= 18) {
+// //     resultado = "maior"
+// // } else {
+// //     resultado = "menor";
+// // }
+
+let resultado = idade >= 18 ? "maior" : "menor";
 
 
-
+console.log(`A pessoa é ${resultado} de idade`);
 
 
 
