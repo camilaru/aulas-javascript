@@ -1,4 +1,4 @@
-// Exemplo: de calculo de IMC
+ real// Exemplo: de calculo de IMC
 
 // Dados de entrada da aplicação
 let peso = 80;
