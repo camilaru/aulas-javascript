@@ -13,5 +13,5 @@ console.log(resultadoemReais);
 
 let valorConvertido = converteMoeda(valorEmDolares);
 
-console.log(`valor em dólares: ${valorEm Dolares}`);
+console.log(`valor em dólares: ${valorEmDolares}`);
 console.log(`valor em dolares (convertido):${valorConvertido}`);
