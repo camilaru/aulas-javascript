@@ -39,7 +39,7 @@ console.log(links);
 
 //console.log(links[2]);
 
-/* Na prática o resultado do querySelectorAll SEMPRE será um ARRAy (ou NodeList) */
+/* Na prática o resultado do querySelectorAll SEMPRE será um ARRAY (ou NodeList) */
 
 /* Aplicando o atributo target="_blank"
 aos links selecionados */
